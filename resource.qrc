@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Begin.png</file>
+        <file>image/Lose.png</file>
+        <file>image/Sence1.png</file>
+        <file>image/Sence2.png</file>
+        <file>image/Sence3.png</file>
+        <file>image/tower1.png</file>
+        <file>image/tower2.png</file>
+        <file>image/tower3.png</file>
+        <file>image/Win.png</file>
+        <file>image/Monster1.png</file>
+        <file>image/bullet1.png</file>
+        <file>image/bullet2.png</file>
+        <file>image/bullet3.png</file>
+        <file>image/Start_.png</file>
+        <file>image/Next.png</file>
+        <file>image/Monster2.png</file>
+        <file>music/BGM.mp3</file>
+    </qresource>
+</RCC>
